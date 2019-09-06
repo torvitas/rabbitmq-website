@@ -49,11 +49,11 @@ can be used to monitor RabbitMQ.
 
 In this guide we define monitoring as a process of
 capturing the behaviour of a system via health checks and metrics  over time.
-This helps detect anomalies: when the system is unavailable, experiences an unusual load,
+This helps to detect anomalies: when the system is unavailable, experiencing unusual load,
 exhausted of certain resources or otherwise does not behave within its normal
 (expected) parameters. Monitoring involves collecting and storing metrics for the long term,
 which is important for more than anomaly detection
-but also root cause analysis, trend detection and capacity planning.
+but also for root cause analysis, trend detection and capacity planning.
 
 Monitoring systems typically integrate with alerting systems.
 
